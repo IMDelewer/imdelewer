@@ -7,9 +7,9 @@ i'm delewer, ok?
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
+  delewer : <img src="https://skillicons.dev/icons?i=discord" height="40" alt="delewer"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  IMDelewer : <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
 ###
