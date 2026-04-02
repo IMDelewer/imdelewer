@@ -1,9 +1,12 @@
-name: Generate Snake
+name: generate snake
 
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -12,7 +15,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: IMDelewer
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
